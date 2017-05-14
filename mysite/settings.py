@@ -25,7 +25,7 @@ SECRET_KEY = 'q$s20*g*04zf3n@!3)%!!q)#*-wd1*=k=f5=v=u+7(5%7ihsdx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['katsukun.pythonanywhere.com']
+ALLOWED_HOSTS = ['katsukun.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
